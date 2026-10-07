@@ -38,8 +38,7 @@ offers:
     summary: Approved startups get 70% off one-year licenses for DHTMLX Gantt, Scheduler, or Suite,
       covering up to three developers and one project, including SaaS.
     description: "The license includes updates and 30 support requests during its one-year term. It is
-      not perpetual: continuing product use after expiry requires an appropriate license.
-      Redistribution of the components as reusable standalone software is prohibited."
+      not perpetual: continuing product use after expiry requires an appropriate license."
     lifecycle:
       status: active
       effective_from: 2026-10-07T05:49:48.989Z
@@ -81,4 +80,3 @@ offers:
     terms_url: https://dhtmlx.com/docs/products/startup-license/
     source_ids:
       - src_2e2ca1fb1f9d3e86b543baed480bad97afef297d6e3588653b6d2a31f7fb730d
-      - src_a9f9df378a6fd7b72661e8d7b1789e6258449f8783de25cfec94acf88a62af61
